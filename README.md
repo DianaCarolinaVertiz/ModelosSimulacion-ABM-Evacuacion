@@ -32,7 +32,7 @@ flowchart TD
 |---|---|
 | `modelo/` | Clases y funciones del modelo; contiene los métodos a implementar |
 | `visualizacion/` | Gráficos y animaciones, ya implementados |
-| `notebooks/` | Notebooks de prueba progresiva (`01` a `05`) y notebook del experimento (`05`) |
+| `notebooks/` | Notebooks de prueba progresiva (`01` a `05`) y notebook del experimento (`06`) |
 | [`CONSIGNA.md`](CONSIGNA.md) | Actividades, reglas, evaluación y entrega |
 
 ## Cómo comenzar
